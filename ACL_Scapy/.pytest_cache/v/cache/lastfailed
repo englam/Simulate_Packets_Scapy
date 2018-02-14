@@ -1,0 +1,6 @@
+{
+  "test_05_LAN.py::LAN::test_LAN_02": true,
+  "test_05_LAN_2G.py": true,
+  "test_05_LAN_2G.py::LAN_2G::test_LAN_2G_05": true,
+  "test_LAN_05.py::LAN::test_LAN_02": true
+}
